@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\miniCinema\miniCinema\bin\Debug\miniCinema.exe.config
+C:\Users\PC\source\repos\miniCinema\miniCinema\bin\Debug\miniCinema.exe
+C:\Users\PC\source\repos\miniCinema\miniCinema\bin\Debug\miniCinema.pdb
+C:\Users\PC\source\repos\miniCinema\miniCinema\obj\Debug\miniCinema.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\miniCinema\miniCinema\obj\Debug\miniCinema.Form1.resources
+C:\Users\PC\source\repos\miniCinema\miniCinema\obj\Debug\miniCinema.Properties.Resources.resources
+C:\Users\PC\source\repos\miniCinema\miniCinema\obj\Debug\miniCinema.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\miniCinema\miniCinema\obj\Debug\miniCinema.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\miniCinema\miniCinema\obj\Debug\miniCinema.exe
+C:\Users\PC\source\repos\miniCinema\miniCinema\obj\Debug\miniCinema.pdb
