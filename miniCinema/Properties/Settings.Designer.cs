@@ -25,5 +25,7 @@ namespace miniCinema.Properties
                 return defaultInstance;
             }
         }
+
+        public string Hosting { get; internal set; }
     }
 }
